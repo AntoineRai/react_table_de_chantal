@@ -1,4 +1,5 @@
 import React from 'react';
+import "./footer.css"
 
 function Footer() {
   return (
@@ -8,6 +9,7 @@ function Footer() {
         <a href="https://www.instagram.com/"><img src="../images/instagram.png" alt="Instagram" /></a>
       </div>
     </footer>
+    
   );
 }
 

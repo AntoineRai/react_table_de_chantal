@@ -1,5 +1,5 @@
-import Footer from '../components/footer.js'
-import Header from '../components/header.js'
+import Footer from '../components/footer/footer.js'
+import Header from '../components/header/header.js'
 
 function App() {
   return (

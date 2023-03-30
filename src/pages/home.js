@@ -1,12 +1,15 @@
-import Footer from '../components/footer.js'
-import Header from '../components/header.js'
+import Footer from '../components/footer/footer.js'
+import Header from '../components/header/header.js'
+import Slider from '../components/slider/slider.js'
+import HomePresentation from '../components/home_presentation/home_presentation.js'
 
 function App() {
   return (
     <div>
-      <Header></Header>
-      <h1>Test HOME</h1>
-      <Footer></Footer>
+      <Header/>
+      <Slider/> 
+      <HomePresentation/>
+      <Footer/>
     </div>
   );
 }

@@ -1,0 +1,22 @@
+.container {
+  align-items: center;
+  justify-content: center;
+  margin: 100px;
+}
+
+.image-container {
+  text-align: center;
+}
+
+.text-container {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.text-container p {
+    font-size: larger;
+}
+
+.rounded-image {
+    border-radius: 50%;
+}
