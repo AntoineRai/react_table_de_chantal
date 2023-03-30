@@ -1,11 +1,12 @@
 import Footer from '../components/footer/footer.js'
 import Header from '../components/header/header.js'
+import Contact from '../components/contact/contact.js'
 
 function App() {
   return (
     <div>
       <Header></Header>
-      <h1>Test CONTACT</h1>
+      <Contact/>
       <Footer></Footer>
     </div>
   );
