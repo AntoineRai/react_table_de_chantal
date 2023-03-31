@@ -31,6 +31,20 @@ function Menu() {
       price: 3,
     },
     {
+      id: 'hjri54',
+      category: 'sans alcool',
+      name: 'Fanta',
+      image: '../images/fanta.png',
+      price: 3,
+    },
+    {
+      id: 'jutifa1',
+      category: 'sans alcool',
+      name: 'Citronnade',
+      image: '../images/citronnade.png',
+      price: 3,
+    },
+    {
       id: 'j1k2l3',
       category: 'avec alcool',
       name: 'Jupiler',
@@ -43,6 +57,27 @@ function Menu() {
       name: 'Orval',
       image: '../images/orval.png',
       price: 5,
+    },
+    {
+      id: 'zertng',
+      category: 'avec alcool',
+      name: 'Leffe',
+      image: '../images/leffe.png',
+      price: 5,
+    },
+    {
+      id: 'zerzetng',
+      category: 'avec alcool',
+      name: 'Paix Dieu',
+      image: '../images/paixdieu.png',
+      price: 6,
+    },
+    {
+      id: 'arhmpbf',
+      category: 'avec alcool',
+      name: 'St Feullien Grand Cru',
+      image: '../images/st.png',
+      price: 6,
     },
   ];
 

@@ -1,3 +1,4 @@
+import React from 'react';
 import Footer from '../components/footer/footer.js'
 import Header from '../components/header/header.js'
 import Boissons from '../components/boissons/boissons.js'
