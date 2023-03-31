@@ -13,6 +13,8 @@ function Contact() {
           <input type="text" id="prenom" name="prenom"/>
           <label for="email">Adresse e-mail :</label>
           <input type="email" id="email" name="email"/>
+          <label for="text">Raison du contact</label>
+          <input type='text' id='raison' name="raison"/> 
           <div className='button-form'>
             <button type="submit">Envoyer</button>
           </div>
@@ -20,6 +22,8 @@ function Contact() {
       </div>
       <div className='container-google-maps'>
         <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=297%20Chau.%20Fernand%20Forest,%2059200%20Tourcoing+(La%20Table%20de%20Chantal)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+        <p>Numéro de téléphone: 03 20 23 84 65</p>
+        <p>Adresse: 297 Chau. Fernand Forest, 59200 Tourcoing</p>
       </div>
     </div>
   );
